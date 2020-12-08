@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Muhammad Muflih Abdurrafi**, **18**, I am from **Indonesia**, I **work hard** and **play hard** 😎
+My name is **Muhammad Muflih Abdurrafi**, I am **18** years old, I am from **Indonesia**.
 
 <!-- 🔭 I’m currently working on -->
 - 🌱 I’m currently learning C++, C, HTML, CSS, JS, etc.
