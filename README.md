@@ -7,7 +7,7 @@ My name is **Muhammad Muflih Abdurrafi**, **18**, I am from **Indonesia**, I **w
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with HTM
 - 💬 Ask me about ...-->
-- 📫 How to reach me: [Instagram](https://www.instagram.com/muflihabdurrafi/) or [twitter](https://twitter.com/muflihabdurafi)
+- 📫 How to reach me through [Linkedin](https://www.linkedin.com/in/muflihabdurrafi) or [Instagram](https://www.instagram.com/muflihabdurrafi/) or [twitter](https://twitter.com/muflihabdurafi)
 <!-- 😄 Pronouns: ... 
 - ⚡ Fun fact: ... -->
 
