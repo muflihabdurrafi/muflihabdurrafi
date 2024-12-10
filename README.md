@@ -1,13 +1,19 @@
-### Hi there 👋
+# Hi there 👋
 
-My name is **Muhammad Muflih Abdurrafi**, I am **22** years old, I am from **Indonesia**.
+## About Me
 
-<!-- 🔭 I’m currently working on -->
+- 🙋‍♂️ My name is **Muflih**, I am **22** years old, from **Indonesia**.
+- 🎓️ Undergraduate in Informatics, class of 2024.
 - 🌱 I’m currently learning the web programming tech stacks, focusing on back-end.
-<!-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with HTM
-- 💬 Ask me about ...-->
-- 📫 You can reach me through [Linkedin](https://www.linkedin.com/in/muflihabdurrafi) or [Instagram](https://www.instagram.com/muflihabdurrafi/) or [twitter](https://twitter.com/muflihabdurafi)
-<!-- 😄 Pronouns: ... --> 
-<!-- ⚡ Fun fact: I have so many hobbies 😂 -->
+- 📫 You can reach me through [Linkedin](https://www.linkedin.com/in/muflihabdurrafi) or email me contact.muflih@gmail.com
 
+## Current Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,golang,react,nextjs,nodejs,express,docker,postman,git,vscode,linux,postgresql,mysql&perline=9)](https://skillicons.dev)
+
+## Github Statistics
+<p align="left">
+<a href="https://github.com/muflihabdurrafi">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muflihabdurrafi&show_icons=true&theme=dark&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muflihabdurrafi&layout=compact&theme=dark&hide_border=true&bold_text=true"/>
+</a>
+</p>
