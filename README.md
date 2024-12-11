@@ -5,7 +5,7 @@
 - 🙋‍♂️ My name is **Muflih**, I am **22** years old, from **Indonesia**.
 - 🎓️ Undergraduate in Informatics, class of 2024.
 - 🌱 I’m currently learning the web programming tech stacks, focusing on back-end.
-- 📫 You can reach me through [Linkedin](https://www.linkedin.com/in/muflihabdurrafi) or email me contact.muflih@gmail.com
+- 📫 You can reach me through [Linkedin](https://www.linkedin.com/in/muflihabdurrafi) or email contact.muflih@gmail.com
 
 ## Current Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,typescript,golang,react,nextjs,nodejs,express,docker,postman,git,vscode,linux,postgresql,mysql&perline=9)](https://skillicons.dev)
