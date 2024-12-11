@@ -8,7 +8,7 @@
 - 📫 You can reach me through [Linkedin](https://www.linkedin.com/in/muflihabdurrafi) or email contact.muflih@gmail.com
 
 ## Current Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,golang,react,nextjs,nodejs,express,docker,postman,git,vscode,linux,postgresql,mysql&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,golang,react,nextjs,nodejs,express,docker,postman,git,vscode,linux,postgresql,mysql&perline=7)](https://skillicons.dev)
 
 ## Github Statistics
 <p align="left">
