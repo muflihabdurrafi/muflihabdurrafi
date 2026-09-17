@@ -1,9 +1,32 @@
-## About
+<div align="center">
 
-- 🙋‍♂️ My name is **Muflih**, I am **24** years old, from **Indonesia**.
-- 🎓️ Undergraduate in Informatics, class of 2024.
-- 🌱 I’m currently focusing on developing my career as a front-end developmer.
-- 📫 You can reach me through [Linkedin](https://www.linkedin.com/in/muflihabdurrafi) or email contact.muflih@gmail.com
+# Hi there, I'm Muflih 👋
 
-## Current Tech Stack
+🙋‍♂️ **24** years old · 📍 Jakarta, Indonesia · 🎓 Informatics Undergraduate, Class of 2024
+
+🌱 Currently focused on growing my career as a **Front-End Developer**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muflihabdurrafi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.muflih@gmail.com)
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🛠️ Current Tech Stack
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,postman,git,github,gitlab,vscode,linux,postgresql,mysql&perline=7)](https://skillicons.dev)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=muflihabdurrafi&style=for-the-badge&color=blueviolet)
+
+</div>
